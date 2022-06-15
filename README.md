@@ -4,7 +4,7 @@ This repo is meant for reporting issues on ironArray and to notify releases (wit
 
 ## Install
 
-```pip install -i https://username:password@distribution.ironarray.io/simple iarray```
+```pip install --index-url 'https://username:password@distribution.ironarray.io:443/simple' iarray```
 
 ## Report issues
 
